@@ -1,0 +1,6 @@
+{
+  "name": "ELHADI AI Workspace",
+  "description": "Kecerdasan Buatan Terintegrasi - Powered by Gemini AI. Asisten cerdas serbaguna untuk produktivitas Anda.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
